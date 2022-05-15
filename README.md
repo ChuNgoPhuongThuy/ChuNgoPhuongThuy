@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chu Ngo Phuong Thuy</h1>
-<h3 align="center">A intern tester</h3>
+<h3 align="center">An intern tester</h3>
 
 - 🔭 I’m currently studying in **Hanoi University of Science**
 
