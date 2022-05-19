@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studying in **Hanoi University of Science**
 
-- 🌱 I’m currently learning **Mathematics and Informations**
+- 🌱 I’m currently learning **Mathematics and Informatics**
 
 - 📫 How to reach me **chungophuongthuy@gmail.com**
 
